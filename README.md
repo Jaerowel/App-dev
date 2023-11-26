@@ -1,6 +1,6 @@
 # App-dev
 My first repository
-#**The last of us**
+## **The last of us**
 Genre:*Action, Adventure, Drama*
 #
 ''The Last of Us is an American post-apocalyptic drama television series created by Craig Mazin and Neil Druckmann for HBO. Based on the 2013 video game developed by Naughty Dog, 
